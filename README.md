@@ -60,9 +60,12 @@ c.close()
 
 ## OUPUT
 
-<img width="674" height="113" alt="cn 2 b 1" src="https://github.com/user-attachments/assets/b6936cab-e8a6-402d-a822-424de2aba11b" />
+<img width="1920" height="1200" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/3a71fddd-3dcf-4e63-8bf1-12c84f0e7c01" />
 
-<img width="684" height="139" alt="cn 2b2" src="https://github.com/user-attachments/assets/7694c121-6634-4750-b69b-7b3d4ca878eb" />
+
+<img width="1920" height="1200" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/b6aaec2c-dde0-4ccd-a1f1-660fc02a304a" />
+
+
 
 
 ## RESULT
